@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-04T18:38:18.486+01:00","modified":"2025-09-11T08:13:45.963+01:00","tags":["people/index"],"cssclasses":""}
+{"publish":true,"created":"2025-09-04T18:38:18.486+01:00","modified":"2025-09-11T17:47:25.068+01:00","tags":["people/index"],"cssclasses":""}
 ---
 
 
@@ -29,6 +29,6 @@
 # Human
 **Size:** Medium · **Languages:** Common + **one** of your choice
 
-- **Adaptable — choose one at character creation:**
-  - **Versatile:** **+1** to **any** ability.
-  - **Broad Training:** choose **one General Feat** you meet the prerequisites for.
+
+ - **Versatile:** **+1** to **any** ability.
+ - **Broad Training:** choose **one General Feat** you meet the prerequisites for.
