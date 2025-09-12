@@ -1,10 +1,10 @@
 ---
-{"publish":true,"created":"2025-09-04T19:04:16.666+01:00","modified":"2025-09-12T18:10:50.785+01:00","cssclasses":""}
+{"publish":true,"created":"2025-09-04T19:04:16.666+01:00","modified":"2025-09-12T18:13:08.198+01:00","cssclasses":""}
 ---
 
 # Classes
 
-OSwR has four base classes: **Cleric, Expert, Fighter, Magic-User**.  
+OSwR has four base classes: [[02 People/Classes/Cleric]], [[02 People/Classes/Expert]], [[02 People/Classes/Fighter]], [[02 People/Classes/Magic-User]].  
 Your class sets hit points, proficient saves, weapon/armor proficiencies, and what you gain on level-ups.
 
 This small set is by design. The mix of **Feats** and **multiclassing** lets you shape almost any archetype you want:
