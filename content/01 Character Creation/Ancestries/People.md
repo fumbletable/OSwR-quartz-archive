@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-04T18:38:18.486+01:00","modified":"2025-09-13T13:08:17.058+01:00","tags":["people/index"],"cssclasses":""}
+{"publish":true,"created":"2025-09-15T07:51:16.448+01:00","modified":"2025-09-15T13:12:56.093+01:00","tags":["people/index"],"cssclasses":""}
 ---
 
 # Species
@@ -19,7 +19,7 @@ Every character belongs to one of the four core species.
 - **Darkvision (30 ft).**  
 - **Resist (Spells):** EDGE on saves vs spells and spell-like effects.  
 
-*Restriction:* Dwarves cannot take Wizard class levels unless a Referee permits a rare exception (e.g., special lineage).  
+*Restriction:* Due to Dwarves innate magic resistance they cannot take Wizard class levels unless a Referee permits a rare exception (e.g., special lineage or exceptionally high intelligence).  
 
 ---
 
@@ -28,16 +28,15 @@ Every character belongs to one of the four core species.
 **Age:** Adult ~100 · Lifespan ~400–1000+  
 
 - **Ghoul Immunity (Essential):** Immune to ghoul paralysis.  
-- **Keen Senses:** EDGE on sight and hearing checks; cannot be Surprised at NEAR range if alert.  
-- **Secret Door Sense:** Passing within 5 ft of a hidden door allows a WIS check; when actively searching, roll with EDGE.  
-
+- **Keen Senses:** EDGE on sight and hearing checks; EDGE on checks to be Surprised at NEAR range if alert.  
+- **Secret Door Sense:** If you pass within 5 ft of a hidden or concealed door, the Referee may roll a secret WIS check for you. When you actively search for secret doors, roll with EDGE.
 ---
 
 ## Halfling  
 **Size:** Small · **Languages:** Common, Halfling  
 **Age:** Adult ~20 · Lifespan ~100–150  
 
-- **Halfling Luck (Essential):** EDGE on saves vs fear and morale-breaking effects.  
+- **Fearless (Essential):** EDGE on saves vs fear and morale-breaking effects.  
 - **Small & Quiet:** EDGE to Hide in wilderness; creatures larger than you have SETBACK to detect you beyond CLOSE if you stay still.  
 - **Sling Training:** You have EDGE on attacks made with slings (and optionally thrown stones).  
 

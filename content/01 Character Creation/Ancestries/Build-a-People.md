@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-04T18:45:48.473+01:00","modified":"2025-09-13T13:24:57.391+01:00","tags":["people/ancestry","status/draft"],"cssclasses":""}
+{"publish":true,"created":"2025-09-15T07:51:16.434+01:00","modified":"2025-09-15T13:35:24.288+01:00","cssclasses":""}
 ---
 
 # Build-a-People
@@ -7,7 +7,7 @@
 OSwR uses four core peoples — Dwarf, Elf, Halfling, and Human — but you can easily create new peoples or sub-races.  
 Each species has **3 traits max** (Humans are the exception). Traits come in a few categories:  
 
-- **Sense:** Darkvision (30 ft) or EDGE on a sense (sight, hearing, smell).  
+- **Sense:** Darkvision (30 ft) or EDGE on a sense (sight, hearing, smell).  Keep darkvision rare
 - **Resist:** EDGE on one type of save (poison, charm, fear, spells, cold/heat).  
 - **Knack:** EDGE on one exploration task (stone sense, find secret doors, woodland stealth, tracking).  
 - **Quirk:** A small, always-on perk (ignore Winded once/day; treat Bulky as 1 slot; EDGE on sling attacks).  
