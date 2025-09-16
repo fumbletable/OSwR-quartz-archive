@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-04T19:04:16.666+01:00","modified":"2025-09-12T18:13:08.198+01:00","cssclasses":""}
+{"publish":true,"created":"2025-09-15T07:51:16.497+01:00","modified":"2025-09-16T17:55:44.068+01:00","cssclasses":""}
 ---
 
 # Classes
@@ -43,7 +43,7 @@ All characters begin with:
 ---
 
 ## How to Read Class Lines
-- **HD:** At 1st level, you take a fixed number (8 for Fighter, 6 for Cleric/Expert, 4 for Magic-User) + CON.  
+- **HD:** At 1st level, you take the max of your HD (8 for Fighter, 6 for Cleric/Expert, 4 for Magic-User) + CON.  
   At higher levels, roll your class Hit Die (or take the average in parentheses) and add CON.  
 - **Saves:** These are your proficient saves—add PB and the ability mod. Non-proficient saves use only the ability mod.  
 - **Weapons / Armor:** Listed by **tags**. Add PB to attacks with proficient weapons. Shields give their normal AC bonus.  

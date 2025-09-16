@@ -1,7 +1,10 @@
 ---
-{"publish":true,"created":"2025-09-04T19:05:02.545+01:00","modified":"2025-09-13T15:55:56.982+01:00","cssclasses":""}
+{"publish":true,"created":"2025-09-15T07:51:16.511+01:00","modified":"2025-09-16T19:06:38.874+01:00","cssclasses":""}
 ---
 
+---
+publish: true
+---
 # Cleric
 
 **HD:** 6 + CON, then 1d6 (avg 3) + CON per level  
@@ -16,7 +19,7 @@
 - **Spell attack:** PB + WIS  
 - **Preparation:** After a rest, prepare spells equal to your **level + WIS modifier**.  
 - **Casting:** Spend a slot of the spell’s tier or higher. The slot is lost; the spell remains on your list.  
-- **Progression:** Clerics use the [[Spell Slot Progression]] table.  
+- **Progression:** Clerics use the [[03 Magic/Magic Overview#Magic Overview]] table.  
 
 ---
 ## Boost Hook
@@ -38,7 +41,7 @@ At 1st level, choose one oath. This shapes your path, spell list, and unique gif
 
 **Turn Undead**  
 **Action:** Present holy symbol and call upon your power.  
-- Make a **WIS check (Normal 12, Hard 16 if undead exceed your level+2 HD)**.  
+- Make a **Normal WIS check**.  
 - **On success:** affect `2d6 + PB` HD of undead within NEAR, starting with the lowest HD first.  
   - If the undead’s HD ≤ (your level − 3), it is **Destroyed**.  
   - If the undead’s HD ≤ (your level + 1), it is **Turned** for `2d6` rounds (must flee, cannot approach).  
@@ -54,8 +57,17 @@ At 1st level, choose one oath. This shapes your path, spell list, and unique gif
 
 - **Spell list:** Druidic (tiers 1–6).  
 - **Weapons:** Sickles, Staves, Spears, Slings.  
-- **Armor:** Light,  Wooden Shields.  
-- **Unique Feature:** Your path grants access to **Shapechanging feats** as you grow, but you do **not Turn Undead**.  
+- **Armor:** Light, Wooden Shields.  
+- **Unique Feature:** Your path grants access to **Wild Shape**, but you do **not Turn Undead**.  
+
+**Wild Shape**  
+**Action:** Expend Hit Dice equal to a beast’s Hit Dice to assume its form.  
+- **Form:** You may become any natural beast you have seen, provided you can pay its Hit Dice cost from your pool.  
+- **Duration:** **1d6 rounds.** After rolling, you may spend a **Boost Die** to add **+1d6 rounds.**  
+- **HP:** While shaped, your HP becomes the beast’s full HP. When that HP is lost or the duration ends, you revert; any excess damage carries over.  
+- **Resource trade:** The Hit Dice spent are **gone from your pool until you rest in a Safe Haven.**  
+- **Traits gained:** The beast’s movement, senses, and natural attacks. You cannot cast spells while shaped. Gear merges or drops (your choice).  
+- **Tone:** Every change taxes your body; too many shifts leave you unable to heal.  
 
 **Starting Kit:**  
 - Leather, Staff, Sickles, Sling; Herbalist’s Kit, Holy Symbol.  

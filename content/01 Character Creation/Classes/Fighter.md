@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-04T19:04:56.580+01:00","modified":"2025-09-13T16:09:11.025+01:00","cssclasses":""}
+{"publish":true,"created":"2025-09-15T07:51:16.539+01:00","modified":"2025-09-16T18:04:53.825+01:00","cssclasses":""}
 ---
 
 # Fighter
@@ -23,5 +23,5 @@ On your turn, you may spend **1 Boost Die** to make **one additional weapon atta
 ---
 ## Starting Kit (pick one)
 
-- **Shieldwall:** Chain, Shield, any Medium melee weapon; Light Crossbow (30 bolts).  
-- **Skirmisher:** Leather, Longbow (20 arrows); any **two** melee weapons.  
+- **Shieldwall:** Chain, Shield, any melee weapon; Light Crossbow (30 bolts).  
+- **Skirmisher:** Leather, Longbow (20 arrows); any **two** Medium melee weapons.  
