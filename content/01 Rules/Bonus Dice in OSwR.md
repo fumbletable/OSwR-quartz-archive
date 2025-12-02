@@ -1,25 +1,44 @@
 ---
-{"publish":true,"created":"2025-09-11T18:00:32.867+01:00","modified":"2025-09-11T18:41:57.788+01:00","cssclasses":""}
+{"publish":true,"created":"2025-09-15T07:51:16.658+01:00","modified":"2025-12-01T14:36:31.670+00:00","cssclasses":""}
 ---
 
 # Boost Dice
 
-- Boost Dice (BD): your session pool (PB/2 at start; cap PB; resets each session). So if you PB is 2 you start each session with 1 BD and can never go above 2 BD. Spend 1 to add +1d6 to an attack/check/save or damage; hand to a CLOSE ally; Spend on some class features, (Fighter) gain one extra weapon attack (once/turn); (Caster) regain 1 SP.
-# Edge & Setback Dice
+**Pool:**
+- Start each session with **PB ÷ 2** Boost Dice (round down)
+- Maximum pool = **PB**
+- Resets at session start
 
-- Edge Die (ED): a free +1d6 granted by some Feats or by the fiction when you have the Edge.
-- Setback Die (SD): a –1d6 from bad position/conditions.    
-- Cancel: ED and SD cancel 1-for-1; roll the net extra dice.    
-- Stacking: You may combine ED with a BD on the same roll.
-- Timing: Add bonus dice after you roll the d20 but before the GM rules success/failure.  
+**Using Boost Dice:**
+- Spend 1 BD to add **+1d6** to any attack, check, save, or damage roll
+- Can spend **after** rolling the d20, before the Referee rules success/failure
+- Limit: 1 BD per roll
+- You may hand a BD to a CLOSE ally
 
-GM dial (default): At most 1 situational ED and 1 situational SD may apply to a roll; Feats may add additional ED. (You can loosen/tighten this per table.)
+**Class Boost Hooks:**
 
-  - Awarded for heroic acts or enhancing the story.
+| Class | Boost Hook |
+|-------|-----------|
+| **Fighter** | Spend 1 BD → make one additional weapon attack |
+| **Expert** | When spending BD, roll 2d6 and keep the higher result |
+| **Cleric** | Spend 1 BD → trigger a spell's Boostable effect |
+| **Magic-User** | Spend 1 BD → trigger Boostable effect OR extend spell duration one step |
+
+---
+
+# EDGE & SETBACK
+
+- **EDGE:** Add +1d6 to your roll (granted by feats, positioning, or fiction)
+- **SETBACK:** Subtract 1d6 from your roll (from bad position/conditions)
+- **Binary:** You either have EDGE or you don't — they don't stack
+- **Cancel:** EDGE and SETBACK cancel 1-for-1
+- **Timing:** Add bonus dice after you roll the d20 but before the Referee rules success/failure
+- **Combining:** You may use a Boost Die on the same roll as EDGE (they're separate systems)
+
+---
 
 ### Table Talk
 
-- Surrounded goblin: “Three of you press in—you have EDGE on the attack.” (Each attacker gets +1d6; if the room is smoke-filled, also SETBACK—so it cancels.)
-- Sniper on the balcony: “Higher ground, braced—you have EDGE on the shot”.
-- Wizard casting in a storm: “Sheets of rain, numbing cold—you suffer a SETBACK on concentration.” They can still drop BD to muscle through.
-
+- Surrounded goblin: "Three of you press in—you have EDGE on the attack."
+- Sniper on the balcony: "Higher ground, braced—you have EDGE on the shot."
+- Wizard casting in a storm: "Sheets of rain, numbing cold—you suffer SETBACK on concentration." They can still spend a BD to push through.

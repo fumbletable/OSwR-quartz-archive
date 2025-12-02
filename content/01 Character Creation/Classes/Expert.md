@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-04T19:04:38.488+01:00","modified":"2025-09-13T16:05:25.338+01:00","cssclasses":""}
+{"publish":true,"created":"2025-09-15T07:51:16.524+01:00","modified":"2025-12-01T14:32:54.752+00:00","cssclasses":""}
 ---
 
 # Expert
@@ -18,8 +18,8 @@
 - At level 1, gain **6 Expert Feats**.  
 - At each odd level, gain +1 Expert Feat.  
 
-**Boost Hook — DEX Focus**  
-When you spend a Boost Die on a **DEX-based** attack or check, roll an extra d6 and keep the higher Boost result.  
+**Boost Hook — Precision**
+When you spend a Boost Die, roll 2d6 and keep the higher result.  
 
 ---
 

@@ -1,10 +1,7 @@
 ---
-{"publish":true,"created":"2025-09-15T07:51:16.511+01:00","modified":"2025-09-16T19:06:38.874+01:00","cssclasses":""}
+{"publish":true,"created":"2025-09-15T07:51:16.511+01:00","modified":"2025-12-01T14:38:37.652+00:00","cssclasses":""}
 ---
 
----
-publish: true
----
 # Cleric
 
 **HD:** 6 + CON, then 1d6 (avg 3) + CON per level  
