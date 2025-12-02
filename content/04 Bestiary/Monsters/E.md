@@ -1,6 +1,7 @@
 ---
-publish: true
+{"publish":true,"created":"2025-12-02T19:04:10.119+00:00","modified":"2025-12-02T19:43:42.460+00:00","cssclasses":""}
 ---
+
 # E
 
 ---
